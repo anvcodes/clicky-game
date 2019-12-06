@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "clicked": false,
+      "name": "The Thing",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/a/a4/Fantastic_Four_Vol_6_1_The_Thing_Variant_Textless.jpg/revision/latest?cb=20180523101159"
+    },
+    {
+      "id": 2,
+      "clicked": false,
+      "name": "Colossus",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/3/38/Black_Panther_Vol_6_13_ResurrXion_Variant_Textless.jpg/revision/latest?cb=20180522023707"
+    },
+    {
+      "id": 3,
+      "clicked": false,
+      "name": "Vision",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/0/02/All-New%2C_All-Different_Avengers_Vol_1_13_Textless.jpg/revision/latest?cb=20181110152047"
+    },
+    {
+      "id": 4,
+      "clicked": false,
+      "name": "Nebula",
+      "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/7/7a/Endgame_Character_Posters_17.jpg/revision/latest?cb=20190326174515"
+    },
+    {
+      "id": 5,
+      "clicked": false,
+      "name": "Black Widow",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/7/79/Black_Widow_Vol_6_12_Textless.jpg/revision/latest?cb=20161221011921"
+    },
+    {
+      "id": 6,
+      "clicked": false,
+      "name": "Mr. Fantastic",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/1/17/Fantastic_Four_Vol_6_1_Mr._Fantastic_Variant_Textless.jpg/revision/latest?cb=20180627181804"
+    },
+    {
+      "id": 7,
+      "clicked": false,
+      "name": "Rogue",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/7/7e/Astonishing_X-Men_Vol_4_1_Artgerm_Variant_Textless.jpg/revision/latest?cb=20170418163143"
+  
+    },
+    {
+      "id": 8,
+      "clicked": false,
+      "name": "Captain America",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfycc6Ya5xXsVU4wvvQB4Vnd3MvsoeTYY2OCKZyVAeJcYBFi_U&s"
+    },
+    {
+      "id": 9,
+      "clicked": false,
+      "name": "Scarlet Witch",
+      "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/4/48/Scarlet_Witch_Vol_2_2_Anka_Variant_Textless.jpg/revision/latest?cb=20151205225342"
+    },
+    {
+      "id": 10,
+      "clicked": false,
+      "name": "Iron Man",
+      "image": "https://external-preview.redd.it/QWI2rXnhAP1J5HXW3sv964QQgitp1DlXbS2JDEGIMUQ.jpg?auto=webp&s=55c827cf3861ad1ca7b5af91063de4911d3deac2"
+    },
+    {
+      "id": 11,
+      "clicked": false,
+      "name": "Thor",
+      "image": "https://static.comicvine.com/uploads/original/11129/111290644/5566098-8aa9e052ed24a158b8b2dd27b8184afc0c4cc356_hq.jpg"
+    },
+    {
+      "id": 12,
+      "clicked": false,
+      "name": "Black Panther",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/5/59/5011137-blackpanther.jpg/revision/latest?cb=20170216160543&path-prefix=protagonist"
+    }
+  ]
